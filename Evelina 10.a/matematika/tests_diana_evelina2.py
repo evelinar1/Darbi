@@ -1,0 +1,7 @@
+print('Divciparu skaitļa ciparu summas aprēķins')
+cipars = int(input("Ievadiet divciparu skaitli!:"))
+print(cipars)
+print("Divciparu skaitlis =", cipars)
+print("Pirmais cipars:",cipars//10)
+print("Otrais cipars:",cipars%10)
+print(cipars//10+cipars%10)
